@@ -1,8 +1,8 @@
 {
     "info": {
         "_postman_id": "e6a2eb6d-8c4d-4b8c-b9b5-6f9f8e4d2a1c",
-        "name": "AI Cold Email Generator API",
-        "description": "API collection for the AI Cold Email Generator MERN App.",
+        "name": "SmartMail AI Email Generator API",
+        "description": "API collection for the SmartMail AI Email Generator MERN App.",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [

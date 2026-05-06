@@ -1,4 +1,4 @@
-# ✅ AI Cold Email Generator - Complete Setup & Deployment Checklist
+# ✅ SmartMail AI - Complete Setup & Deployment Checklist
 
 ## 🚀 Quick Start Guide
 
@@ -73,7 +73,7 @@ npm run dev
 
 #### Test Email Generation:
 1. Go to Dashboard (after login)
-2. Enter prompt: "Generate cold email for SDE role at Google"
+2. Enter prompt: "Create personalized outreach emails instantly with AI for SDE role at Google"
 3. Click Generate
 4. View generated email
 
@@ -281,6 +281,6 @@ kill -9 <PID>
 
 ---
 
-**✨ Your AI Cold Email Generator is production-ready!**
+**✨ Your SmartMail AI is production-ready!**
 
 *Last Updated: February 24, 2026*

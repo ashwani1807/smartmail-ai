@@ -1,7 +1,7 @@
 {
   "name": "ai-cold-email-server",
   "version": "1.0.0",
-  "description": "Backend for AI Cold Email Generator",
+  "description": "Backend for SmartMail AI",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
