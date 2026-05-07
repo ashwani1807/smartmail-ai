@@ -25,7 +25,10 @@ connectDB();
 const app = express();
 
 app.use(cors({
-    origin: process.env.FRONTEND_URL || true,
+    origin: [
+        'http://localhost:5173',
+        'https://smartmail-5onqugas2-ashwani1807s-projects.vercel.app'
+    ],
     credentials: true
 }));
 
